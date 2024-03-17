@@ -2,3 +2,5 @@ ALL_FIELDS = "__all__"
 
 
 EMPTY_VALUES = ([], (), {}, "", None)
+
+ANSWER_TO_LIFE_UNIVERSE_AND_EVERYTHING = 42
